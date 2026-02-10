@@ -19,17 +19,17 @@ Neo-Vue est une bibliothèque de composants Vue.js moderne avec un style neobrut
 
 ### NPM
 ```bash
-npm install neo-vue
+npm install @neo-vue/neo-ui
 ```
 
 ### Yarn
 ```bash
-yarn add neo-vue
+yarn add @neo-vue/neo-ui
 ```
 
 ### PNPM
 ```bash
-pnpm add neo-vue
+pnpm add @neo-vue/neo-ui
 ```
 
 ## 🚀 Configuration
@@ -52,8 +52,8 @@ app.mount('#app')
 
 ```javascript
 import { createApp } from 'vue'
-import NeoVue from 'neo-vue'
-import 'neo-vue/lib/neo-vue.css'
+import NeoVue from '@neo-vue/neo-ui'
+import '@neo-vue/neo-ui/lib/neo-vue.css'
 import App from './App.vue'
 
 const app = createApp(App)
