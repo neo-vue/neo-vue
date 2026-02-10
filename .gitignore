@@ -1,0 +1,8 @@
+/.idea
+/.vibe
+/node_modules
+/lib
+/cypress/server-test/node_modules
+/cypress/videos
+/cypress/screenshots
+/cypress/downloads
