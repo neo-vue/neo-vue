@@ -71,6 +71,9 @@
     "url": "https://github.com/neo-vue/neo-vue/issues"
   },
   "homepage": "https://github.com/neo-vue/neo-vue#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "boxicons": "^2.1.4"
   }
