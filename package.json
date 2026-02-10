@@ -1,6 +1,6 @@
 {
   "name": "@neo-vue/neo-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VueJS UI components library with neobrutalism style design.",
   "main": "lib/index.js",
   "type": "module",
